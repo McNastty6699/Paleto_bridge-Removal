@@ -14,3 +14,5 @@ Before
 After
 
 ![image](https://user-images.githubusercontent.com/88422603/206937771-95f7882d-8a1e-4437-9ffa-5a8fb09a006b.png)
+
+Feel free to use this however you want. Or edit however you want.
